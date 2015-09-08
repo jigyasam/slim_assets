@@ -8,7 +8,7 @@ Use this to write Backbone.js or AngularJS templates in Slim and let the Rails a
 
 Add this to your `Gemfile`
 
-    gem 'slim_assets', github: 'jigyasam/slim_assets, branch: 'jigyasam/rail4'
+    gem 'slim_assets', github: 'jigyasam/slim_assets, branch: 'rails4'
     gem 'slim'
 
 # Using slim for your Javascript templates
